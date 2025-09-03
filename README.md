@@ -7,5 +7,5 @@ Useful links:-
 [Awesome Cookie Recipe](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1&pp=ygUXbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXCgBwE%3D)
 
 ## Formatting Examples:
-1.*Italic*text.
-2. **Bold**Text.
+1.*Italic*Emphasis.
+2. **Bold**Emphasis.
